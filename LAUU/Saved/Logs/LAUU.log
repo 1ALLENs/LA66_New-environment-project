@@ -2507,3 +2507,108 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.17-17.33.30:085][681]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_world/Main_Auto1 is in the /Temp path, will not scan.
 [2025.01.17-17.33.30:097][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_world/Main' took 34.891
 [2025.01.17-17.33.30:097][681]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 34.891
+[2025.01.17-18.04.02:551][390]LogDerivedDataCache: C:/Users/weiho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.075 and deleted 0 files with total size 0 MiB and 7 empty folders. Scanned 9860 files in 12068 folders with total size 3832 MiB.
+[2025.01.17-18.12.30:612][ 29]LogViewport: Scene viewport resized to 1805x597, mode Windowed.
+[2025.01.17-18.12.30:632][ 30]LogViewport: Scene viewport resized to 1805x574, mode Windowed.
+[2025.01.17-18.12.30:711][ 31]LogViewport: Scene viewport resized to 1805x457, mode Windowed.
+[2025.01.17-18.12.30:760][ 32]LogViewport: Scene viewport resized to 1805x408, mode Windowed.
+[2025.01.17-18.12.30:816][ 33]LogViewport: Scene viewport resized to 1805x371, mode Windowed.
+[2025.01.17-18.12.30:857][ 34]LogViewport: Scene viewport resized to 1805x353, mode Windowed.
+[2025.01.17-18.12.30:904][ 35]LogViewport: Scene viewport resized to 1805x338, mode Windowed.
+[2025.01.17-18.12.30:957][ 36]LogViewport: Scene viewport resized to 1805x330, mode Windowed.
+[2025.01.17-18.12.30:991][ 37]LogViewport: Scene viewport resized to 1805x324, mode Windowed.
+[2025.01.17-18.12.44:520][650]LogViewport: Scene viewport resized to 1805x333, mode Windowed.
+[2025.01.17-18.12.44:544][651]LogViewport: Scene viewport resized to 1805x351, mode Windowed.
+[2025.01.17-18.12.44:593][652]LogViewport: Scene viewport resized to 1805x386, mode Windowed.
+[2025.01.17-18.12.44:635][653]LogViewport: Scene viewport resized to 1805x407, mode Windowed.
+[2025.01.17-18.12.44:675][654]LogViewport: Scene viewport resized to 1805x423, mode Windowed.
+[2025.01.17-18.12.44:717][655]LogViewport: Scene viewport resized to 1805x438, mode Windowed.
+[2025.01.17-18.12.44:762][656]LogViewport: Scene viewport resized to 1805x457, mode Windowed.
+[2025.01.17-18.12.44:806][657]LogViewport: Scene viewport resized to 1805x482, mode Windowed.
+[2025.01.17-18.12.44:853][658]LogViewport: Scene viewport resized to 1805x492, mode Windowed.
+[2025.01.17-18.12.44:915][660]LogViewport: Scene viewport resized to 1805x493, mode Windowed.
+[2025.01.17-18.12.46:651][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: Failed to load '/Game/TheFallenFortress/Materials/MI_corpse1_armor': Can't find file.
+[2025.01.17-18.12.46:651][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: VerifyImport: Failed to load package for import object 'Package /Game/TheFallenFortress/Materials/MI_corpse1_armor'
+[2025.01.17-18.12.46:677][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: Failed to load '/Game/TheFallenFortress/Materials/MI_corpse1_chainmail': Can't find file.
+[2025.01.17-18.12.46:677][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: VerifyImport: Failed to load package for import object 'Package /Game/TheFallenFortress/Materials/MI_corpse1_chainmail'
+[2025.01.17-18.12.46:677][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: Failed to load '/Game/TheFallenFortress/Materials/MI_corpse1_details': Can't find file.
+[2025.01.17-18.12.46:677][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: VerifyImport: Failed to load package for import object 'Package /Game/TheFallenFortress/Materials/MI_corpse1_details'
+[2025.01.17-18.12.46:677][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: Failed to load '/Game/TheFallenFortress/Materials/MI_skin': Can't find file.
+[2025.01.17-18.12.46:677][735]LogLinker: Warning: [AssetLog] F:\LA66_VP_Stage\LA66_New-environment-project\LAUU\Content\TheFallenFortress\Models\SM_corpse1.uasset: VerifyImport: Failed to load package for import object 'Package /Game/TheFallenFortress/Materials/MI_skin'
+[2025.01.17-18.12.46:677][735]LogStaticMesh: Display: Building static mesh SM_corpse1...
+[2025.01.17-18.12.47:077][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TheFallenFortress/Models/SM_corpse1.SM_corpse1
+[2025.01.17-18.12.47:102][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TheFallenFortress/Models/SM_corpse1.SM_corpse1
+[2025.01.17-18.12.47:199][735]LogActorFactory: Actor Factory spawned StaticMesh /Game/TheFallenFortress/Models/SM_corpse1.SM_corpse1 as actor: StaticMeshActor /Game/Main_world/Main.Main:PersistentLevel.StaticMeshActor_5
+[2025.01.17-18.12.47:216][735]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TheFallenFortress/Models/SM_corpse1) ...
+[2025.01.17-18.12.47:474][735]LogStaticMesh: Adjacency [0.05s], tris: 295784, UVs 2
+[2025.01.17-18.12.48:004][735]LogStaticMesh: Clustering [0.53s]. Ratio: 1.017308
+[2025.01.17-18.12.48:048][735]LogStaticMesh: Leaves [0.04s]
+[2025.01.17-18.12.50:462][735]LogStaticMesh: Reduce [2.41s]
+[2025.01.17-18.12.50:848][735]LogStaticMesh: Fallback 0/1 [0.39s], num tris: 7753
+[2025.01.17-18.12.50:929][735]LogStaticMesh: ConstrainClusters:
+[2025.01.17-18.12.50:929][735]LogStaticMesh:   Input: 4818 Clusters, 606501 Triangles and 686215 Vertices
+[2025.01.17-18.12.50:929][735]LogStaticMesh:   Output without splits: 4818 Clusters, 606501 Triangles and 686666 Vertices
+[2025.01.17-18.12.50:929][735]LogStaticMesh:   Output with splits: 4840 Clusters, 606501 Triangles and 686692 Vertices
+[2025.01.17-18.12.50:932][735]LogStaticMesh: Material Stats - Unique Materials: 4, Fast Path Clusters: 4840, Slow Path Clusters: 0, 1 Material: 4713, 2 Materials: 115, 3 Materials: 12, At Least 4 Materials: 0
+[2025.01.17-18.12.51:037][735]LogStaticMesh: WritePages:
+[2025.01.17-18.12.51:037][735]LogStaticMesh:   Root: GPU size: 30856 bytes. 1 Pages. 30856.000 bytes per page (94.165% utilization).
+[2025.01.17-18.12.51:037][735]LogStaticMesh:   Streaming: GPU size: 9933600 bytes. 77 Pages (72 with relative encoding). 129007.789 bytes per page (98.425% utilization).
+[2025.01.17-18.12.51:037][735]LogStaticMesh:   Page data disk size: 7188632 bytes. Fixup data size: 33888 bytes.
+[2025.01.17-18.12.51:037][735]LogStaticMesh:   Total GPU size: 9964456 bytes, Total disk size: 7222520 bytes.
+[2025.01.17-18.12.51:039][735]LogStaticMesh: Encode [0.19s]
+[2025.01.17-18.12.51:039][735]LogStaticMesh: Nanite build [2.99s]
+
+[2025.01.17-18.12.51:071][735]LogStaticMesh: Built static mesh [4.41s] /Game/TheFallenFortress/Models/SM_corpse1.SM_corpse1
+[2025.01.17-18.12.51:428][735]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: ================================================
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Total job queries 4,921, among them cache hits 124 (2.52%)
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Tracking 4,788 distinct input hashes that result in 3,509 distinct outputs (73.29%)
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: RAM used: 98.15 MiB of 1.60 GiB budget. Usage: 5.99%
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Shaders Compiled: 4,788
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Jobs assigned 4,792, completed 4,788 (99.92%)
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Average time worker was idle: 30.87 s
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Time job spent in pending queue: average 123.34 s, longest 276.82 s
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Job execution time: average 6.01 s, max 114.68 s
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Job life time (pending + execution): average 129.46 s, max 281.76
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Shader code size: average 41.342 KiB, min 2.086 KiB, max 454.4 KiB
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 323.64 s
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Jobs were issued in 866 batches (only local compilation was used), average 5.53 jobs/batch
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Average processing rate: 14.79 jobs/sec
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Total thread time: 2,038.767 s
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Total thread preprocess time: 149.175 s
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Percentage time preprocessing: 7.32%
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Effective parallelization: 6.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    4 times, average 23.80 sec, max 29.01 sec, min 18.59 sec)
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display:                                  FNiagaraCollisionRayTraceCH (compiled    1 times, average 6.22 sec, max 6.22 sec, min 6.22 sec)
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display:                TSlateElementPSRoundedBoxfalsetruefalsefalseA (compiled    1 times, average 5.99 sec, max 5.99 sec, min 5.99 sec)
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display:                 TSlateElementPSRoundedBoxtruetruefalsefalseA (compiled    1 times, average 5.99 sec, max 5.99 sec, min 5.99 sec)
+[2025.01.17-18.12.52:244][743]LogShaderCompilers: Display:                  TSlateElementPSColorFonttruetruefalsefalseA (compiled    1 times, average 5.99 sec, max 5.99 sec, min 5.99 sec)
+[2025.01.17-18.12.52:245][743]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.17-18.12.52:245][743]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.44% of total time (compiled  134 times, average 1.13 sec, max 1.48 sec, min 0.84 sec)
+[2025.01.17-18.12.52:245][743]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 5.48% of total time (compiled   48 times, average 2.33 sec, max 2.94 sec, min 1.62 sec)
+[2025.01.17-18.12.52:245][743]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.09% of total time (compiled  192 times, average 0.54 sec, max 0.97 sec, min 0.25 sec)
+[2025.01.17-18.12.52:245][743]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.91% of total time (compiled  256 times, average 0.39 sec, max 0.61 sec, min 0.23 sec)
+[2025.01.17-18.12.52:245][743]LogShaderCompilers: Display:                                               FPathTracingRG - 4.67% of total time (compiled    4 times, average 23.80 sec, max 29.01 sec, min 18.59 sec)
+[2025.01.17-18.12.52:245][743]LogShaderCompilers: Display: ================================================
+[2025.01.17-18.13.00:995][ 38]Cmd: TRANSACTION UNDO
+[2025.01.17-18.13.00:995][ 38]LogEditorTransaction: Undo Move Elements
+[2025.01.17-18.13.10:123][384]LogViewport: Scene viewport resized to 1805x486, mode Windowed.
+[2025.01.17-18.13.10:144][385]LogViewport: Scene viewport resized to 1805x472, mode Windowed.
+[2025.01.17-18.13.10:204][386]LogViewport: Scene viewport resized to 1805x427, mode Windowed.
+[2025.01.17-18.13.10:241][387]LogViewport: Scene viewport resized to 1805x402, mode Windowed.
+[2025.01.17-18.13.10:284][388]LogViewport: Scene viewport resized to 1805x370, mode Windowed.
+[2025.01.17-18.13.10:327][389]LogViewport: Scene viewport resized to 1805x336, mode Windowed.
+[2025.01.17-18.13.10:366][390]LogViewport: Scene viewport resized to 1805x315, mode Windowed.
+[2025.01.17-18.13.10:406][391]LogViewport: Scene viewport resized to 1805x302, mode Windowed.
+[2025.01.17-18.13.10:446][392]LogViewport: Scene viewport resized to 1805x300, mode Windowed.
+[2025.01.17-18.13.54:056][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2025.01.17-18.14.09:318][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_world/Main_Auto2
+[2025.01.17-18.14.09:318][460]LogSavePackage: Moving '../../../../../LA66_VP_Stage/LA66_New-environment-project/LAUU/Saved/Main_Auto2C87D1CE34DAEA6831612008AE65E56A4.tmp' to '../../../../../LA66_VP_Stage/LA66_New-environment-project/LAUU/Saved/Autosaves/Game/Main_world/Main_Auto2.umap'
+[2025.01.17-18.14.09:323][460]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../LA66_VP_Stage/LA66_New-environment-project/LAUU/Saved/Autosaves/Game/Main_world/Main_Auto2.umap is in the /Temp path, will not scan.
+[2025.01.17-18.14.09:323][460]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_world/Main_Auto2 is in the /Temp path, will not scan.
+[2025.01.17-18.14.09:323][460]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_world/Main_Auto2 is in the /Temp path, will not scan.
+[2025.01.17-18.14.09:323][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_world/Main' took 15.299
+[2025.01.17-18.14.09:323][460]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 15.299
