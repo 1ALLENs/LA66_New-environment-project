@@ -2612,3 +2612,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.17-18.14.09:323][460]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_world/Main_Auto2 is in the /Temp path, will not scan.
 [2025.01.17-18.14.09:323][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_world/Main' took 15.299
 [2025.01.17-18.14.09:323][460]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 15.299
+[2025.01.17-18.24.25:627][913]LogViewport: Scene viewport resized to 1805x306, mode Windowed.
+[2025.01.17-18.24.25:650][914]LogViewport: Scene viewport resized to 1805x323, mode Windowed.
+[2025.01.17-18.24.25:700][915]LogViewport: Scene viewport resized to 1805x399, mode Windowed.
+[2025.01.17-18.24.25:743][916]LogViewport: Scene viewport resized to 1805x464, mode Windowed.
+[2025.01.17-18.24.25:780][917]LogViewport: Scene viewport resized to 1805x519, mode Windowed.
+[2025.01.17-18.24.25:823][918]LogViewport: Scene viewport resized to 1805x569, mode Windowed.
+[2025.01.17-18.24.25:863][919]LogViewport: Scene viewport resized to 1805x588, mode Windowed.
+[2025.01.17-18.24.25:903][920]LogViewport: Scene viewport resized to 1805x611, mode Windowed.
+[2025.01.17-18.24.25:950][921]LogViewport: Scene viewport resized to 1805x647, mode Windowed.
+[2025.01.17-18.24.25:993][922]LogViewport: Scene viewport resized to 1805x680, mode Windowed.
+[2025.01.17-18.24.26:033][923]LogViewport: Scene viewport resized to 1805x709, mode Windowed.
+[2025.01.17-18.24.26:075][924]LogViewport: Scene viewport resized to 1805x716, mode Windowed.
+[2025.01.17-18.24.29:636][136]LogViewport: Scene viewport resized to 1805x703, mode Windowed.
+[2025.01.17-18.24.29:653][137]LogViewport: Scene viewport resized to 1805x679, mode Windowed.
+[2025.01.17-18.24.29:749][138]LogViewport: Scene viewport resized to 1805x618, mode Windowed.
+[2025.01.17-18.24.29:903][139]LogViewport: Scene viewport resized to 1805x594, mode Windowed.
+[2025.01.17-18.24.29:956][140]LogViewport: Scene viewport resized to 1805x576, mode Windowed.
+[2025.01.17-18.24.29:994][141]LogViewport: Scene viewport resized to 1805x574, mode Windowed.
